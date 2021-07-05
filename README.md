@@ -1,6 +1,16 @@
 # Hello World
 Hello there! <br>
-Welcome to my github profile, i wish you will find something useful here. <br>
+My name is Muhammad Lucky Witjaksono from Indonesia<br>
+Welcome to my github profile, i wish you will find something useful here:smile: <br> 
+<p align='center'>
+    Here's My socials<br>
+<a href="https://www.linkedin.com/in/mluckyw/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:lucky.witjaksono@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
 
 # Who am I?
 I'm a aeronautical/astronautical Engineering students currently on the final year of reaching my degree. <br>
@@ -21,4 +31,4 @@ Initially, just doing the work based on the problem presented by the lecturers. 
 While understanding the code i think to myself "Why you make a program with one fixed input with a maximum of one difference?". 
 That got me thinking again "If everything can be coded by a program, why would we bother with analytical calculations". At that time i made a lot of simple calculation mistakes. <br>
 Now, i have a motto/principle. <br>
-    "If you make a program, don't create it with only one input and one variation as it will be useless in terms of actual usage."
+    <p align="center"><em>**"If you make a program, don't create it with only one input and one variation as it will be useless in terms of actual usage."**<em></p>
